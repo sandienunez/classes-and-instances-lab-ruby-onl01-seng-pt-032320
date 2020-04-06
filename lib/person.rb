@@ -1,6 +1,6 @@
 class Person
-def initialize 
-end 
+  def initialize 
+  end 
   
 adele_goldberg = Person.new
 adele_goldberg
