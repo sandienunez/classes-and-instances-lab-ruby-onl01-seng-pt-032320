@@ -1,4 +1,6 @@
 class Dog
+def initialize
+
 fido  = Dog.new
 fido 
   
