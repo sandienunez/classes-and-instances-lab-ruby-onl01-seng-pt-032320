@@ -1,3 +1,4 @@
 class Dog
-timmy = Dog.authenticate_or_request_with_http_digest
+timmy = Dog.new
+timmy
 end 
